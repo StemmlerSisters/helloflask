@@ -70,3 +70,4 @@ werkzeug==2.0.1
     # via flask
 wtforms==2.3.3
     # via flask-wtf
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
